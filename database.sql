@@ -1,5 +1,3 @@
-CREATE DATABASE IF NOT EXISTS scholarshipproj;
-USE scholarshipproj;
 
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
